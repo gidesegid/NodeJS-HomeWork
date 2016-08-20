@@ -1,0 +1,14 @@
+{
+  "name": "gidehomeworks",
+  "version": "6.3.1",
+  "description": "this is nodejs homeworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gide Segid",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
